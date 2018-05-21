@@ -2,8 +2,9 @@
 
 [eCOTS 2018](https://www.causeweb.org/cause/ecots/ecots18/)
 Monday, May 21st5:00 pm – 5:30 pm
-With Mine Dogucu (New College of Florida)
-Mine Cetinkaya-Rundel (Duke University)
+
+[Mine Dogucu](@mdogucu) (New College of Florida)
+[Mine Cetinkaya-Rundel](@mine-cetinkaya-rundel) (Duke University)
 
 ## Abstract
 
