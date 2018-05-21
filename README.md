@@ -20,7 +20,7 @@ of time. We will share our experiences and examples of web scraping activities
 from our classrooms and how we link this relatively modern technique with 
 traditional statistics topics such as multiple regression.
 
-Slides are available at bit.ly/ecots2018-webscraping and is provided in .pdf format in this [repo](https://github.com/mdogucu/eCOTS2018/blob/master/Presentation%20Slides.pdf). 
+Slides are available at bit.ly/ecots2018-webscraping and are provided in .pdf format in this [repo](https://github.com/mdogucu/eCOTS2018/blob/master/Presentation%20Slides.pdf). 
 
 Two examples of scraping from IMDB are provided both in this repo as well as on RStudio Cloud. In order to follow the code on RStudio Cloud:
 
