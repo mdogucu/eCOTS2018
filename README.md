@@ -3,7 +3,7 @@
 [eCOTS 2018](https://www.causeweb.org/cause/ecots/ecots18/)  
 Monday, May 21st5:00 pm – 5:30 pm  
  
-[Mine Doğucu](https://github.com/mdogucu) (New College of Florida)  
+[Mine Dogucu](https://github.com/mdogucu) (New College of Florida)  
 [Mine Çetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel) (Duke University)
 
 ## Abstract
