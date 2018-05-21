@@ -20,8 +20,11 @@ of time. We will share our experiences and examples of web scraping activities
 from our classrooms and how we link this relatively modern technique with 
 traditional statistics topics such as multiple regression.
 
-Follow along on RStudio Cloud at (bit.ly/ecots2018).
+Slides are available at bit.ly/ecots2018-webscraping
 
+Two examples of scraping from IMDB are provided both in this repo as well as on RStudio Cloud. In order to follow the code on RStudio Cloud:
+
+- Go to bit.ly/ecots2018.
 - Go to Projects
 - Click on `+Copy` to make your own copy
 - Run the code and edit as desired
