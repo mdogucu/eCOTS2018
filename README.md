@@ -4,7 +4,7 @@
 Monday, May 21st5:00 pm – 5:30 pm  
  
 [Mine Dogucu](https://github.com/mdogucu) (New College of Florida)  
-[Mine Çetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel) (Duke University)
+[Mine Çetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel) (Duke University + RStudio)
 
 ## Abstract
 
