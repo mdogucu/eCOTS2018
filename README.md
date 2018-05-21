@@ -20,7 +20,7 @@ of time. We will share our experiences and examples of web scraping activities
 from our classrooms and how we link this relatively modern technique with 
 traditional statistics topics such as multiple regression.
 
-Follow along on RStudio Cloud at bit.ly/ecots2018.
+Follow along on RStudio Cloud at (bit.ly/ecots2018).
 
 - Go to Projects
 - Click on `+Copy` to make your own copy
