@@ -70,10 +70,10 @@ scrape_2017_movies <- function(url){
   )
 }
 
+# Map the function to each of the urls ----
+# Use map_df since the desired result is a data frame
 featured <- map_df(urls, scrape_2017_movies)
 
 # Fit a model predicting rating from run time ----
-library(broom)
-
 m <- lm(rating ~ run_time + vote, data = featured)
 tidy(m)
